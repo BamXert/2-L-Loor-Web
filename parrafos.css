@@ -1,0 +1,31 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+  text-align: left;
+  background-color: rgba(35,58,93,0.8);
+  color: white;
+  padding: 20px;
+  height: 80px;
+  position: fixed;
+  }
+.seccion2 {
+    text-align: center;
+    color: black;
+    padding: 20px;
+    height: 80px;
+    position: absolute;
+  }  
+.parrafos{
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+.titulos{
+    font-size: 50px;
+    text-align: right;
+    padding: 20px 0px;
+}
